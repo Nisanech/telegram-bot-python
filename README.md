@@ -5,6 +5,11 @@ permitirá agregar productos al inventario, realizar búsquedas por nombre, real
 cantidades de productos, calcular el valor total del inventario y mostrar inventario. Además, se implementa un menú 
 interactivo donde el usuario puede elegir las diferentes acciones a realizar.
 
+## Documentación
+
+La documentación del proyecto se encuentra en el siguiente enlace: 
+[Documentación](https://polydactyl-mule-c5a.notion.site/Proyecto-Gesti-n-de-Inventario-de-Tienda-Bot-Telegram-1d0e4951fb4c80a89b3cf1cddbd284c8)
+
 ## Archivos del Proyecto
 
 - `store-inventory.py`: Contiene el código del programa principal, que gestiona el inventario de la tienda a través de 
@@ -87,11 +92,6 @@ telegram-bot-python/
 ├── .env.example
 └── README.md
 ```
-
-## Documentación
-
-La documentación del proyecto se encuentra en el siguiente enlace: 
-[Documentación](https://polydactyl-mule-c5a.notion.site/Proyecto-Gesti-n-de-Inventario-de-Tienda-Bot-Telegram-1d0e4951fb4c80a89b3cf1cddbd284c8)
 
 ## Desarrollado por
 
