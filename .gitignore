@@ -1,0 +1,28 @@
+# Archivos de entorno
+.env
+.env.*
+!.env.example
+
+# Entorno virtual (venv)
+venv/
+env/
+ENV/
+
+# Archivos de Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache
+
+# Archivos de empaquetado
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Otros
+.DS_Store
+.idea/
+.vscode/
